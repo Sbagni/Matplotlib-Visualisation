@@ -8,4 +8,5 @@ how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare. We cr
 
 ![Image Graph1](https://github.com/Sbagni/Matplotlib_HW/blob/master/Pymaceuticals/errorbar.png)
 
-![Image Graph2](
+![Image Graph2](https://github.com/Sbagni/Matplotlib_HW/blob/master/Pymaceuticals/plot.png)
+
